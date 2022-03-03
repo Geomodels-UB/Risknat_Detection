@@ -2,11 +2,12 @@
  
 ## Introduction
 Point Cloud Monitoring is a system of softwares for the automatic detection of rockfalls from  point cloud. The system is divides in two softwares. Cluster creation from point clouds (Visual Studio, Basic) and cluster classification with machine learning (Python).
+
 ## Name
-Point Cloud Monitoring.
+Point Cloud Monitoring and Cluster Classification
 
 ## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+From two Point Cloud datasets, captured with a time-lapse, Point Cloud Monitoring (PCM) vectorize the surfaces of the cliff and compare both Point clouds dataset and clusterize the differences according to parameters defined by the user. In a second step, Cluster Classification is applied to identify clusters associated to rockfall according  to rockfall clusters previously identified.
 
 # Badges
 On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
