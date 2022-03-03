@@ -1,7 +1,7 @@
 # Point Cloud Monitoring
  
 ## Introduction
-Point Cloud Monitoring is a system of softwares for the automatic detection of rockfalls from  point cloud. 
+Point Cloud Monitoring is a system of softwares for the automatic detection of rockfalls from  point cloud. The system is divides in two softwares. Cluster creation from point clouds (Visual Studio, Basic) and cluster classification with machine learning (Python).
 ## Name
 Point Cloud Monitoring.
 
